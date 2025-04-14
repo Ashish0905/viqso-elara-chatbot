@@ -1,9 +1,4 @@
 
----
-
-### 4️⃣ `package.json`
-
-```json
 {
   "name": "elara-chatbot",
   "version": "1.0.0",
